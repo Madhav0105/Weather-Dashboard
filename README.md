@@ -42,10 +42,6 @@ weather_dashboard/
 cd server
 npm install
 
-Create a .env file in the server/ directory and add your OpenWeatherMap API key:
-
-weather_api=2049ae390021f99a72ee91233cf66fcb
-
 Start the backend server:
 
 node server.js
